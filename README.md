@@ -12,7 +12,7 @@ A simple network scanner using ARP requests and monitor the network using Scapy 
 
 ## Installation
 
-1. **Install Python 3**:
+ **Install Python 3**:
    Ensure Python 3 is installed on your system. You can check by running:
    ```bash
    python3 --version
